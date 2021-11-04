@@ -7,3 +7,4 @@ Repo of WordPress themes folder for the ISCA website
 * Get Meta Out of Videos, standarize them.
 * Someone add Categories & Tags
 * Outputting Meta into Short Code or Widget
+* Wireframing into template
